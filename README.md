@@ -1,4 +1,4 @@
-# Dashforge
+# Content Admin Dashboard
 
 An open-source, config-driven admin dashboard for managing content and media uploads in any Next.js backend. Fork it, describe your content in one file, set a few environment variables, and deploy — no CMS SaaS, no vendor lock-in.
 
